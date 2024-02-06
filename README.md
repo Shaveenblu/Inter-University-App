@@ -1,4 +1,4 @@
-# University App
+# Inter-University App
 
 -	A University App which is capable of chatting, sharing posts &resources, connect with students from various faculties.
 -	Chatting – Capable of creating groups with either public or private manner. Can be able to join public groups. Each admins of the group have the full rights to control it. Private groups are not visible by any person who is outside the group. Has various features such as polls, sharing of locations, file transfer.
